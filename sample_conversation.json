@@ -1,0 +1,37 @@
+[
+  {
+    "sender": "Alice",
+    "content": "Hey team, I noticed that our login page is taking more than 5 seconds to load for some users.",
+    "timestamp": "2023-06-15T10:30:00Z"
+  },
+  {
+    "sender": "Bob",
+    "content": "Thanks for flagging that, Alice. Do we know which browsers or devices are affected?",
+    "timestamp": "2023-06-15T10:32:15Z"
+  },
+  {
+    "sender": "Alice",
+    "content": "It seems to be happening mostly on Chrome, especially on mobile devices.",
+    "timestamp": "2023-06-15T10:35:22Z"
+  },
+  {
+    "sender": "Charlie",
+    "content": "I can confirm this issue. I tested on my Android phone with Chrome and it took around 7 seconds to load.",
+    "timestamp": "2023-06-15T10:40:05Z"
+  },
+  {
+    "sender": "Diana",
+    "content": "Has anyone checked the server logs? Maybe there's an API bottleneck.",
+    "timestamp": "2023-06-15T10:43:30Z"
+  },
+  {
+    "sender": "Bob",
+    "content": "Good point. I'll check the logs and see if there's anything unusual during login requests.",
+    "timestamp": "2023-06-15T10:45:10Z"
+  },
+  {
+    "sender": "Alice",
+    "content": "This is definitely a critical issue since it affects our user experience. We should prioritize fixing it.",
+    "timestamp": "2023-06-15T10:48:45Z"
+  }
+] 
